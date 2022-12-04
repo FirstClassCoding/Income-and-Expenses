@@ -1,0 +1,128 @@
+.mainbg {
+    background-color: #EEEEEE; 
+    font-family: 'Inter', sans-serif;
+}
+.register-box {
+    background-color: #FFFFFF;
+    box-shadow: 1px 2px 1px 1px #C9C7C7;
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+.master-head {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width:100%;
+    overflow:hidden;
+    height:40px;
+}
+.master-username-text {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.master-balance-text {
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.post-content {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    box-shadow: 1px 2px 1px 1px #C9C7C7;
+}
+.white-bg {
+    background-color: #FFFFFF;
+}
+.blue-bg {
+    background-color: #CCECFF;
+}
+.header-forum {
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.header-timezone {
+    margin-left: 150px;
+}
+.set-content-text {
+    vertical-align: top;
+    padding-top: 10px;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+.set-content-pic {
+    padding-left: 20px;
+    vertical-align: top;
+}
+.author-content-text {
+    font-size: 14;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D2D2D2;
+}
+.ref-id-column {
+    width: 7%;
+    text-align: center;
+}
+.date-column {
+    width: 15%;
+    text-align: center;
+}
+.details-column {
+    width: 33%;
+    text-align: center;
+}
+.income-column {
+    width: 15%;
+    text-align: center;
+}
+.expenses-column {
+    width: 15%;
+    text-align: center;
+}
+.balance-column {
+    width: 15%;
+    text-align: center;
+}
+.enter-data {
+    text-align: center;
+    width: 100%;
+}
+.add-data-bt-position {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15;
+}
+.head-text-box-register {
+    padding-top: 30px;
+    text-align: center;
+}
+.set-position-register {
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.set-text-register {
+    text-align: center;
+    padding-right: 20px;
+}
+.submit-register-bt-position {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.used-register-user-text {
+    text-align: center;
+    color: #FF0000;
+}
